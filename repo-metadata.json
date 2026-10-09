@@ -1,0 +1,16 @@
+{
+  "name": "stm32-signal-generation",
+  "description": "Documentation-only collaborative STM32 timer, DMA, waveform and ADC/PWM engineering case study.",
+  "topics": [
+    "embedded-systems",
+    "stm32",
+    "c",
+    "microcontrollers",
+    "pwm",
+    "dma"
+  ],
+  "visibility": "public",
+  "branch": "main",
+  "release_scope": "documentation and source-derived plot only; shared and vendor firmware withheld",
+  "license": "not-assigned-pending-rights-review"
+}
